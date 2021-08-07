@@ -1,5 +1,3 @@
-# GoodNotes - ML Engineer Challenge
-
 ## What even is a CRDT?
 
 Conflict-Free Replicated Data Types (CRDTs) are data structures that power real-time collaborative applications in
